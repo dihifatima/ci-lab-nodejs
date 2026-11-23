@@ -1,0 +1,12 @@
+{
+  "name": "ci-lab-nodejs",
+  "version": "1.0.0",
+  "description": "Application simple pour le lab CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
